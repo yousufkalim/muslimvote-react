@@ -18,7 +18,7 @@ const VoterEducation = () => {
             base of voters
           </p>
           <div className="readMorebtnDiv2">
-            <p>Read More</p>
+            <p>Read More</p>&nbsp;
             <div className="arrowDiv">
               <img src={WhiteVector} alt="arrow" />
             </div>

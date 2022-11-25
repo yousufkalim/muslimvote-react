@@ -8,7 +8,9 @@ const Navigation = () => {
       <div className="Navigation">
         <div className="Navigation_bar">
           <div className="Navigation_logo">
-            <img src={NavLogo} alt="" />
+            <Link to="/">
+              <img src={NavLogo} alt="" className="Navigation_logo2" />
+            </Link>
           </div>
           <div className="Navigation_menu">
             <li className="Navigation_li">

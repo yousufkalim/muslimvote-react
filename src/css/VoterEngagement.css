@@ -2,11 +2,10 @@
   display: flex;
   align-items: center;
   background-color: #fdfcfc;
-  height: 100vh;
-  background: url(../assets/Background.svg);
-  background-repeat: no-repeat;
-  background-position: center;
-  background-size: cover;
+  height: 70vh;
+  background: url(../assets/PartnerBg.svg);
+  background-position: right bottom, left top;
+  background-repeat: no-repeat, repeat;
 }
 .voterEngageDiv {
   width: 40%;
@@ -39,11 +38,19 @@
 .paragraph {
   width: 60%;
   margin: 20px 0;
+  font-family: 'Raleway';
+  font-style: normal;
+  font-weight: 600;
+  font-size: 24px;
+  line-height: 28px;
+  /* Color Pallete/Text */
+
+  color: #6a6a6a;
 }
 .readMorebtnDiv {
-  width: 20%;
+  width: 15%;
   padding: 1%;
-  margin-top: 12px;
+  margin-top: 20px;
   border-radius: 50px;
   outline: none;
   background: none;
@@ -52,7 +59,12 @@
   color: #0054b2;
   display: flex;
   justify-content: center;
-  gap: 5px;
+  font-family: 'Raleway';
+  font-style: normal;
+  font-weight: 700;
+  font-size: 20px;
+  line-height: 23px;
+  display: flex;
 }
 .arrowDiv {
   display: flex;

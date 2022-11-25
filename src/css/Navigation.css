@@ -10,6 +10,9 @@
   width: 90%;
   margin: auto;
 }
+.Navigation_logo2 {
+  width: 200px;
+}
 .Navigation_li {
   list-style: none;
 }

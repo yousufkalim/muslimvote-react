@@ -19,7 +19,6 @@ import OurPartners from '../components/LandingPage/OurPartners';
 import Fighting from '../components/LandingPage/Fighting';
 import Protecting from '../components/LandingPage/Protecting';
 import Fotoer from '../components/LandingPage/Fotoer';
-import Election from '../components/LandingPage/Election';
 
 // Home Component
 export default function Home() {
@@ -42,7 +41,6 @@ export default function Home() {
       <Fighting />
       <Protecting />
       <Fotoer />
-      <Election />
     </div>
   );
 }

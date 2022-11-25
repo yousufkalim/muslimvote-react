@@ -60,7 +60,7 @@ const JoinMovement = () => {
               </div>
             </div>
             <button className="join_now_btn">
-              Join now&nbsp;
+              Join now &nbsp;
               <img src={WhiteArrow} alt="" className="redArrow" />
             </button>
           </div>
