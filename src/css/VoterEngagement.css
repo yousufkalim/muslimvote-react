@@ -1,0 +1,60 @@
+.VoterEngagementContainer {
+  display: flex;
+  align-items: center;
+  background-color: #fdfcfc;
+  height: 100vh;
+  background: url(../assets/Background.svg);
+  background-repeat: no-repeat;
+  background-position: center;
+  background-size: cover;
+}
+.voterEngageDiv {
+  width: 40%;
+}
+.voterEngagement {
+  width: 100%;
+}
+.VoterPara {
+  width: 90%;
+  margin: auto;
+}
+.readMorebtnDiv {
+  display: flex;
+}
+.flagGirlDiv {
+  display: flex;
+  height: 100%;
+  /* width: 45%; */
+}
+.parabtn {
+  width: 92%;
+  margin: auto;
+}
+.flag {
+  position: absolute;
+  width: 70%;
+  right: 0%;
+  bottom: 5%;
+}
+.paragraph {
+  width: 60%;
+  margin: 20px 0;
+}
+.readMorebtnDiv {
+  width: 20%;
+  padding: 1%;
+  margin-top: 12px;
+  border-radius: 50px;
+  outline: none;
+  background: none;
+  border-color: #0054b2;
+  border: 1px solid;
+  color: #0054b2;
+  display: flex;
+  justify-content: center;
+  gap: 5px;
+}
+.arrowDiv {
+  display: flex;
+  align-items: center;
+}
