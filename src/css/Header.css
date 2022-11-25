@@ -1,4 +1,32 @@
 /* Header Component Style */
-h1 {
-  color: red;
+.header {
+  background: linear-gradient(90deg, #3378ff 0%, #9442fe 100%);
+}
+.header_content {
+  width: 90%;
+  display: flex;
+  align-items: center;
+  justify-content: flex-end;
+  height: 40px;
+  color: #fdfcfc;
+}
+.header_social_acount {
+  display: flex;
+  margin-right: 20px;
+}
+.join_now_link,
+.join_now_link2 {
+  text-decoration: none;
+  font-family: 'Poppins';
+  font-style: normal;
+  font-weight: 700;
+  font-size: 20px;
+  line-height: 30px;
+  color: #fdfcfc;
+}
+.join_now_link {
+  margin-right: 30px;
+}
+.social_icons {
+  margin-left: 10px;
 }

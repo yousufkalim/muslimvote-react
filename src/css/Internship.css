@@ -1,0 +1,41 @@
+.Internship_center {
+  width: 90%;
+  margin: 70px auto;
+}
+.Internship_img {
+  width: 35%;
+}
+.Internship_p {
+  width: 90%;
+  padding-left: 3%;
+  font-family: 'Raleway';
+  font-style: normal;
+  font-weight: 700;
+  font-size: 36px;
+  line-height: 42px;
+  color: #6a6a6a;
+}
+.Internship_container {
+  width: 90%;
+  margin: 70px auto;
+  display: flex;
+  align-items: center;
+}
+.Internship_column1 {
+  width: 40%;
+}
+.Internship_column2 {
+  width: 60%;
+}
+.Internship_colum_img {
+  width: 95%;
+  height: 100%;
+}
+.Internship_column_p {
+  font-family: 'Raleway';
+  font-style: normal;
+  font-weight: 600;
+  font-size: 32px;
+  line-height: 38px;
+  color: #6a6a6a;
+}

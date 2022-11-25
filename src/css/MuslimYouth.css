@@ -1,0 +1,21 @@
+.MuslimYouth {
+  width: 100%;
+}
+.MuslimYouth_center {
+  background-image: url('../assets/MuslimYouthBg.svg');
+  height: 380px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+.MuslimYouth_p {
+  width: 90%;
+  margin: auto;
+  font-family: 'Raleway';
+  font-style: normal;
+  font-weight: 700;
+  font-size: 48px;
+  line-height: 56px;
+  text-align: center;
+  color: #fdfcfc;
+}

@@ -1,0 +1,72 @@
+.JoinMovement {
+  width: 100%;
+  background: linear-gradient(127.16deg, #2e2f32 11.06%, #101111 85.05%, #000000 91.55%);
+}
+.JoinMovement_center {
+  padding: 50px 0;
+  display: flex;
+  align-items: center;
+  width: 90%;
+  margin: auto;
+}
+.JoinMovement_column {
+  width: 40%;
+}
+.JoinMovement_column2 {
+  width: 60%;
+}
+.JoinMovement_img {
+  width: 80%;
+  height: 100%;
+}
+.JoinMovement_p {
+  font-family: 'Raleway';
+  font-style: normal;
+  font-weight: 700;
+  font-size: 64px;
+  line-height: 75px;
+  color: #ff3737;
+}
+.contact_form {
+  display: flex;
+}
+.input_fields_div {
+  width: 100%;
+  margin-bottom: 30px;
+}
+.input_label {
+  display: block;
+  color: #fdfcfc;
+  padding-bottom: 10px;
+}
+.contact_input {
+  align-items: center;
+  padding: 16px 32px;
+  width: 100%;
+  background: rgba(253, 252, 252, 0.3);
+  border-radius: 20px;
+  border: none;
+  color: #fdfcfc;
+}
+.contact_textarea {
+  border-radius: 20px;
+  border: none;
+  padding: 16px 32px;
+  color: #fdfcfc;
+  width: 100%;
+  height: 140px;
+  background: rgba(253, 252, 252, 0.3);
+}
+.join_now_btn {
+  padding: 17px 32px;
+  background: #ff3737;
+  border-radius: 100px;
+  font-family: 'Raleway';
+  font-style: normal;
+  font-weight: 700;
+  font-size: 20px;
+  line-height: 23px;
+  display: flex;
+  align-items: center;
+  color: #fdfcfc;
+}

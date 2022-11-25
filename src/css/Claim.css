@@ -1,0 +1,27 @@
+.Claim {
+  width: 100%;
+}
+.Claim_center {
+  width: 80%;
+  margin: auto;
+  margin-bottom: 50px;
+}
+.Claim_title {
+  font-family: 'Raleway';
+  font-style: normal;
+  font-weight: 700;
+  font-size: 48px;
+  line-height: 56px;
+  color: #ff3737;
+  text-align: center;
+  padding-bottom: 10px;
+}
+.Claim_p {
+  font-family: 'Raleway';
+  font-style: normal;
+  font-weight: 500;
+  font-size: 24px;
+  line-height: 28px;
+  text-align: center;
+  color: #6a6a6a;
+}

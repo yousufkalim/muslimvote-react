@@ -1,0 +1,26 @@
+/* .Navigation {
+  border: 1px solid red;
+} */
+.Navigation_bar {
+  /* border: 1px solid rgb(0, 255, 30); */
+  height: 100px;
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  width: 90%;
+  margin: auto;
+}
+.Navigation_li {
+  list-style: none;
+}
+.Navigation_a {
+  margin-left: 35px;
+  text-decoration: none;
+  text-decoration: none;
+  font-family: 'Poppins';
+  font-style: normal;
+  font-weight: 700;
+  font-size: 20px;
+  line-height: 30px;
+  color: #6a6a6a;
+}
