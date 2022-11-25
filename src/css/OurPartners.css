@@ -1,0 +1,45 @@
+.OurPartners {
+  margin: 100px 0;
+}
+.OurPartners_center {
+  width: 90%;
+  margin: auto;
+  display: flex;
+  align-items: center;
+}
+.OurPartners_column {
+  width: 50%;
+}
+.OurPartners_title_img {
+  width: 40%;
+  margin-bottom: 20px;
+}
+.OurPartners_p {
+  font-family: 'Raleway';
+  font-style: normal;
+  font-weight: 600;
+  font-size: 24px;
+  line-height: 28px;
+  color: #6a6a6a;
+  padding: 15px 0;
+}
+.OurPartners_btn {
+  margin-top: 20px;
+  border-radius: 100px;
+  padding: 17px 32px;
+  font-family: 'Raleway';
+  font-style: normal;
+  font-weight: 700;
+  font-size: 20px;
+  line-height: 23px;
+  display: flex;
+  align-items: center;
+  color: #0054b2;
+  border: 1px solid #0054b2;
+}
+.OurPartners_column_img {
+  width: 80%;
+  display: block;
+  margin: auto;
+  height: 100%;
+}

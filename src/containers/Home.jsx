@@ -14,6 +14,12 @@ import JoinMovement from '../components/LandingPage/JoinMovement';
 import Internship from '../components/LandingPage/Internship';
 import Claim from '../components/LandingPage/Claim';
 import Stepper from '../components/LandingPage/Stepper';
+import Drawers from '../components/LandingPage/Drawers';
+import OurPartners from '../components/LandingPage/OurPartners';
+import Fighting from '../components/LandingPage/Fighting';
+import Protecting from '../components/LandingPage/Protecting';
+import Fotoer from '../components/LandingPage/Fotoer';
+import Election from '../components/LandingPage/Election';
 
 // Home Component
 export default function Home() {
@@ -31,6 +37,12 @@ export default function Home() {
       <Internship />
       <Claim />
       <Stepper />
+      <Drawers />
+      <OurPartners />
+      <Fighting />
+      <Protecting />
+      <Fotoer />
+      <Election />
     </div>
   );
 }

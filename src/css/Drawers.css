@@ -1,0 +1,22 @@
+.Drawers {
+  background-image: url('../assets//DrawersImg.svg');
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+.Drawers_center {
+  height: 845px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+.Drawers_p {
+  width: 80%;
+  margin: auto;
+  font-family: 'Raleway';
+  font-style: normal;
+  font-weight: 700;
+  font-size: 48px;
+  line-height: 56px;
+  text-align: center;
+  color: #f0f9f7;
+}

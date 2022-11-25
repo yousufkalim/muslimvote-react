@@ -23,6 +23,12 @@
   font-size: 20px;
   line-height: 30px;
   color: #fdfcfc;
+  padding: 10px;
+}
+.join_now_link:hover,
+.join_now_link2:hover {
+  background-color: white;
+  color: #ff3737;
 }
 .join_now_link {
   margin-right: 30px;

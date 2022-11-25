@@ -1,6 +1,4 @@
-/* Importing all CSS files */
-@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@500;600;700&display=swap');
-@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@500;600;700&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@500;600;700&family=Raleway:wght@400;500;600;700;800&display=swap');
 @import url('./Header.css');
 @import url('./Navigation.css');
 @import url('./HomeSection.css');
@@ -13,14 +11,19 @@
 @import url('./Internship.css');
 @import url('./Claim.css');
 @import url('./Stepper.css');
+@import url('./Drawers.css');
+@import url('./OurPartners.css');
+@import url('./Fighting.css');
+@import url('./Protecting.css');
+@import url('./Fotoer.css');
+@import url('./Election.css');
 
 /* Defaults */
 * {
   padding: 0;
   margin: 0;
   box-sizing: border-box;
-  font-family: 'Poppins', sans-serif;
-  font-family: 'Poppins', sans-serif;
+  font-family: 'Raleway', sans-serif;
 }
 
 /* Primary Variables */
