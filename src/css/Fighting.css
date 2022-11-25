@@ -1,0 +1,38 @@
+.Fighting {
+  background-image: url('../assets/FightingBg.svg');
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+.Fighting_center {
+  width: 100%;
+  height: 482px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+.Fighting_contant {
+  position: relative;
+  width: 50%;
+  margin: auto;
+}
+.Fighting_qoutes {
+  position: absolute;
+  left: -4%;
+  top: -26%;
+}
+.Fighting_qoutes2 {
+  position: absolute;
+  right: 0%;
+  bottom: -32%;
+}
+/* .Fighting_heading {
+} */
+.Fighting_p {
+  font-family: 'Raleway';
+  font-style: normal;
+  font-weight: 700;
+  font-size: 48px;
+  line-height: 56px;
+  text-align: center;
+  color: #fdfcfc;
+}

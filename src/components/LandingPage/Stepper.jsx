@@ -17,7 +17,7 @@ const Stepper = () => {
       <div className="stepper_timeLine">
         <Timeline position="alternate">
           <TimelineItem>
-            <TimelineOppositeContent color="text.secondary">
+            <TimelineOppositeContent>
               <div className="fastest">
                 <p className="fastest_title">Fastest Growing Population</p>
                 <p className="fastest_p">
@@ -27,8 +27,9 @@ const Stepper = () => {
               </div>
             </TimelineOppositeContent>
             <TimelineSeparator>
-              <TimelineDot />
-              <TimelineConnector />
+              <TimelineConnector className="stepper_line dropLine" />
+              <TimelineDot className="stepper_Dot" />
+              <TimelineConnector className="stepper_line" />
             </TimelineSeparator>
             <TimelineContent>
               <div className="fastest_img_div">
@@ -47,8 +48,8 @@ const Stepper = () => {
               </div>
             </TimelineOppositeContent>
             <TimelineSeparator>
-              <TimelineDot />
-              <TimelineConnector />
+              <TimelineDot className="stepper_Dot" />
+              <TimelineConnector className="stepper_line" />
             </TimelineSeparator>
             <TimelineContent>
               <div className="shape_img_div">
@@ -68,8 +69,8 @@ const Stepper = () => {
               </div>
             </TimelineOppositeContent>
             <TimelineSeparator>
-              <TimelineDot />
-              <TimelineConnector />
+              <TimelineDot className="stepper_Dot" />
+              <TimelineConnector className="stepper_line" />
             </TimelineSeparator>
             <TimelineContent>
               <div className="Matters_img_div">
@@ -86,8 +87,8 @@ const Stepper = () => {
               </div>
             </TimelineOppositeContent>
             <TimelineSeparator>
-              <TimelineDot />
-              <TimelineConnector />
+              <TimelineDot className="stepper_Dot" />
+              <TimelineConnector className="stepper_line dropLine" />
             </TimelineSeparator>
             <TimelineContent>
               <div className="Impactful_img_div">

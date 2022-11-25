@@ -1,0 +1,62 @@
+.Fotoer {
+  background: #2b2926;
+}
+.Fotoer_center {
+  padding: 80px 0 50px 0;
+  width: 90%;
+  margin: auto;
+  display: flex;
+  justify-content: space-between;
+}
+.Fotoer_column {
+  width: 50%;
+}
+.Fotoer_right_colums {
+  display: flex;
+  justify-content: end;
+}
+.Fotoer_right_contant {
+  display: flex;
+  margin-right: 20%;
+}
+.Fotoer_ronald_p,
+.Fotoer_ronald_p2 {
+  font-family: 'Raleway';
+  font-style: normal;
+  font-weight: 400;
+  font-size: 24px;
+  line-height: 28px;
+  color: #f0f9f7;
+}
+.Fotoer_ronald_p {
+  opacity: 0.7;
+  font-size: 22px;
+}
+.locat_img {
+  margin-bottom: auto;
+}
+.footer_social {
+  display: flex;
+  justify-content: end;
+  margin-top: 20px;
+}
+.locat_img {
+  margin-top: 3px;
+  margin-right: 10px;
+}
+.social_account_logo {
+  margin-left: 10px;
+}
+.footer_info {
+  width: 100%;
+  display: flex;
+  align-items: center;
+  height: 122px;
+  border-top: 1px solid #484746;
+  background: #2b2926;
+}
+.footer_info_p {
+  width: 90%;
+  margin: auto;
+  color: #f0f9f7;
+}
