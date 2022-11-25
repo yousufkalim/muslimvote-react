@@ -1,0 +1,80 @@
+.Election {
+  width: 100%;
+}
+.Election_center {
+  display: flex;
+}
+.Election_column {
+  width: 50%;
+  margin-left: 5%;
+}
+.Election_column2 {
+  width: 50%;
+}
+.Election_title {
+  font-family: 'Raleway';
+  font-style: normal;
+  font-weight: 700;
+  font-size: 64px;
+  line-height: 75px;
+  color: #3378ff;
+}
+.Election_p {
+  font-family: 'Raleway';
+  font-style: normal;
+  font-weight: 600;
+  font-size: 36px;
+  line-height: 42px;
+  color: #6a6a6a;
+}
+.Election_img {
+  margin-left: auto;
+  display: block;
+  width: 80%;
+  margin-right: -25px;
+}
+.timeLine_content {
+  width: 90%;
+  margin-left: auto;
+  margin-right: 5%;
+  margin-top: -15%;
+  margin-bottom: 10%;
+}
+.timeLine_content2 {
+  margin-left: 5%;
+  width: 90%;
+  margin-right: auto;
+  margin-top: -10%;
+  margin-bottom: 10%;
+}
+.timeLine_heading {
+  font-family: 'Raleway';
+  font-style: normal;
+  font-weight: 700;
+  font-size: 36px;
+  line-height: 42px;
+  color: #0054b2;
+}
+.timeLine_heading2 {
+  font-family: 'Raleway';
+  font-style: normal;
+  font-weight: 700;
+  font-size: 36px;
+  line-height: 42px;
+  color: #ff3737;
+}
+.timeLie_line {
+  background-color: #d7d6d6 !important;
+}
+.timeLine_Dot {
+  background: linear-gradient(0deg, rgba(0, 0, 0, 0.2), rgba(0, 0, 0, 0.2)), #0054b2 !important;
+  width: 34px;
+  height: 34px;
+  border: 10px solid #c7e1ff !important;
+}
+.timeLine_Dot2 {
+  background: linear-gradient(92.72deg, #ff1212 3.4%, #c1272d 95.3%) !important;
+  width: 34px;
+  height: 34px;
+  border: 10px solid #f7baba !important;
+}
