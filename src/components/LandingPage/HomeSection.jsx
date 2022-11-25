@@ -10,7 +10,7 @@ const HomeSection = () => {
             <p className="home_content">
               We want an America where <span className="muslim">Muslims</span> can become
               <span className="city"> City Council, Mayors, Member of Congress</span> and{' '}
-              <span className="city">President.</span> US
+              <span className="city">US President.</span>
             </p>
           </div>
           <div className="HomeSection_colm2">
