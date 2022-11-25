@@ -16,6 +16,7 @@
 }
 .major {
   display: flex;
+  align-items: center;
   margin-bottom: 5%;
 }
 .major2 {
@@ -30,6 +31,13 @@
   font-weight: 600;
   /* font-size: 32px; */
   line-height: 50px;
+}
+.TrainingContent > ul > li {
+  font-family: 'Raleway';
+  font-style: normal;
+  font-weight: 600;
+  font-size: 32px;
+  line-height: 55px;
 }
 /* .content ul {
   display: flex;

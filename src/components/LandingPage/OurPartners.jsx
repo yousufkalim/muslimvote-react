@@ -20,7 +20,7 @@ const OurPartners = () => {
               the communities you serve in democracy. We want to help you get there.
             </p>
             <button className="OurPartners_btn">
-              Become Partner&nbsp;
+              Become Partner &nbsp;
               <img src={BlueArrow} alt="" className="redArrow" />
             </button>
           </div>

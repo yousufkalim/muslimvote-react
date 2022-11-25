@@ -32,7 +32,7 @@ const Together = () => {
               arrow
             >
               <button className="reedmore_btn">
-                Read More <img src={RedArrowImg} alt="" className="redArrow" />
+                Read More &nbsp; <img src={RedArrowImg} alt="" className="redArrow" />
               </button>
             </LightTooltip>
           </div>

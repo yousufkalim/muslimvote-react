@@ -11,6 +11,9 @@
 .Fotoer_column {
   width: 50%;
 }
+.Fotoer_logo {
+  width: 200px;
+}
 .Fotoer_right_colums {
   display: flex;
   justify-content: end;

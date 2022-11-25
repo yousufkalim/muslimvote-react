@@ -1,5 +1,6 @@
 .Election {
   width: 100%;
+  margin: 100px 0;
 }
 .Election_center {
   display: flex;
@@ -31,7 +32,6 @@
   margin-left: auto;
   display: block;
   width: 80%;
-  margin-right: -25px;
 }
 .timeLine_content {
   width: 90%;

@@ -18,7 +18,7 @@ const VoterEngagement = () => {
             and education programs.{' '}
           </p>
           <div className="readMorebtnDiv">
-            <p>Read More</p>
+            <p>Read More</p> &nbsp;
             <div className="arrowDiv">
               <img src={Vector} alt="arrow" />
             </div>

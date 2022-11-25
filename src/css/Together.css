@@ -1,6 +1,8 @@
 .Together {
   width: 100%;
   background-image: url('../assets//TogetherBg.svg');
+  background-repeat: no-repeat;
+  background-size: cover;
 }
 .Together_center {
   padding-top: 100px;
