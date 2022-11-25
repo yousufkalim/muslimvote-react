@@ -1,0 +1,37 @@
+.YourVote {
+  width: 100%;
+  margin: 100px 0;
+}
+.YourVote_center {
+  display: flex;
+  align-items: center;
+  width: 90%;
+  margin: auto;
+}
+.YourVote_column {
+  width: 50%;
+}
+.YourVote_column2 {
+  width: 50%;
+}
+.YourVote_img {
+  width: 90%;
+  height: 100%;
+}
+.YourVote_title {
+  font-family: 'Raleway';
+  font-style: normal;
+  font-weight: 700;
+  font-size: 40px;
+  line-height: 47px;
+  color: #00438e;
+  margin-bottom: 30px;
+}
+.YourVote_p {
+  font-family: 'Raleway';
+  font-style: normal;
+  font-weight: 600;
+  font-size: 36px;
+  line-height: 42px;
+  color: #6a6a6a;
+}

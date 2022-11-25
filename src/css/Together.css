@@ -1,0 +1,42 @@
+.Together {
+  width: 100%;
+  background-image: url('../assets//TogetherBg.svg');
+}
+.Together_center {
+  padding-top: 100px;
+  width: 90%;
+  margin: auto;
+  display: flex;
+  align-items: center;
+}
+.together_title {
+  font-family: 'Raleway';
+  font-style: normal;
+  font-weight: 700;
+  font-size: 64px;
+  line-height: 75px;
+  color: #f0f9f7;
+}
+.together_p {
+  font-family: 'Raleway';
+  font-style: normal;
+  font-weight: 600;
+  font-size: 32px;
+  line-height: 38px;
+  color: #f0f9f7;
+  margin: 20px 0;
+}
+.reedmore_btn {
+  padding: 17px 32px;
+  background: #fdfcfc;
+  border-radius: 100px;
+  font-family: 'DM Sans';
+  font-style: normal;
+  font-weight: 700;
+  font-size: 16px;
+  line-height: 21px;
+  display: flex;
+  align-items: center;
+  color: #ff3737;
+  border: none;
+}

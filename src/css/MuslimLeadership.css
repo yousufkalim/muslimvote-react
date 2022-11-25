@@ -1,0 +1,26 @@
+.MuslimLeadership {
+  width: 100%;
+}
+.MuslimLeadership_center {
+  display: flex;
+}
+.MuslimLeadership_colum {
+  width: 50%;
+  display: flex;
+  align-items: center;
+}
+
+.LeaderShip_img {
+  width: 100%;
+  height: 100%;
+}
+.MuslimLeadership_p {
+  width: 80%;
+  margin: auto;
+  font-family: 'Raleway';
+  font-style: normal;
+  font-weight: 700;
+  font-size: 48px;
+  line-height: 56px;
+  color: #6a6a6a;
+}

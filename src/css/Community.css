@@ -1,0 +1,43 @@
+.Community {
+  width: 100%;
+}
+.Community_center {
+  height: 380px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+.Cummunity_p {
+  font-family: 'Raleway';
+  font-style: normal;
+  font-weight: 700;
+  font-size: 48px;
+  line-height: 56px;
+  color: #ff3737;
+}
+.Community_container {
+  width: 90%;
+  margin: auto;
+  display: flex;
+  align-items: center;
+}
+.Community_colmn1 {
+  width: 70%;
+  padding-right: 10%;
+}
+.Community_colmn2 {
+  width: 30%;
+}
+.Community_col_img {
+  width: 100%;
+  height: 100%;
+}
+.Community_col_p {
+  font-family: 'Raleway';
+  font-style: normal;
+  font-weight: 600;
+  font-size: 40px;
+  line-height: 47px;
+  color: #6a6a6a;
+  margin-bottom: 30px;
+}

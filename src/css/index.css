@@ -1,11 +1,26 @@
 /* Importing all CSS files */
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@500;600;700&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@500;600;700&display=swap');
 @import url('./Header.css');
+@import url('./Navigation.css');
+@import url('./HomeSection.css');
+@import url('./MuslimYouth.css');
+@import url('./MuslimLeadership.css');
+@import url('./Community.css');
+@import url('./YourVote.css');
+@import url('./Together.css');
+@import url('./JoinMovement.css');
+@import url('./Internship.css');
+@import url('./Claim.css');
+@import url('./Stepper.css');
 
 /* Defaults */
 * {
   padding: 0;
   margin: 0;
   box-sizing: border-box;
+  font-family: 'Poppins', sans-serif;
+  font-family: 'Poppins', sans-serif;
 }
 
 /* Primary Variables */
