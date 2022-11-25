@@ -1,0 +1,52 @@
+.partnerDiv {
+  width: 100%;
+  margin-bottom: 5%;
+}
+.partnerImg {
+  width: 100%;
+}
+.TrainingDiv {
+  width: 100%;
+  display: flex;
+  justify-content: center;
+}
+.TrainingImg {
+  width: 60%;
+  margin-bottom: 5%;
+}
+.major {
+  display: flex;
+  margin-bottom: 5%;
+}
+.major2 {
+  display: flex;
+  flex-direction: row-reverse;
+}
+.TrainingContent {
+  margin: 0 5%;
+  width: 55%;
+  font-family: 'Raleway';
+  font-style: normal;
+  font-weight: 600;
+  /* font-size: 32px; */
+  line-height: 50px;
+}
+/* .content ul {
+  display: flex;
+  flex-direction: column;
+  justify-content: space-around;
+  height: 100%;
+} */
+
+.frame1Div {
+  width: 35%;
+}
+.frame1 {
+  width: 100%;
+}
+.red {
+  color: #ff3737;
+}
+.blue {
+  color: #0054b2;
+}

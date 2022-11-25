@@ -13,6 +13,9 @@
 @import url('./Internship.css');
 @import url('./Claim.css');
 @import url('./Stepper.css');
+@import url('./VoterEngagement.css');
+@import url('./VoterEducation.css');
+@import url('./Training.css');
 
 /* Defaults */
 * {
