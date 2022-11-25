@@ -11,7 +11,7 @@ const MuslimLeadership = () => {
           </div>
           <div className="MuslimLeadership_colum">
             <p className="MuslimLeadership_p">
-              We envision to prepare our next generation of;
+              We envision to prepare our next generation of
               <span className="muslim"> Muslim leadership</span> at
               <span className="city"> local</span> and national levels to represent the
               <span className="city"> under-represented</span> &

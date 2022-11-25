@@ -71,6 +71,8 @@
 }
 .stepper_line {
   background-color: #d0d0d0 !important;
+  width: 6px !important;
+  opacity: 0.4 !important;
 }
 .stepper_Dot {
   background: linear-gradient(92.72deg, #ff1212 3.4%, #c1272d 95.3%) !important;
