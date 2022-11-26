@@ -1,8 +1,6 @@
 import React from 'react';
 import voterEngagement from '../../../assets/voterEngagement.png';
 import Vector from '../../../assets/Vector.png';
-import Flag from '../../../assets/Flag.png';
-import Girl from '../../../assets/Girl.png';
 
 const VoterEngagement = () => {
   return (

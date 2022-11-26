@@ -42,3 +42,12 @@
   color: #ff3737;
   border: none;
 }
+.MuiTooltip-popper[data-popper-placement*='bottom'] .css-1k51tf5-MuiTooltip-tooltip {
+  max-width: 80% !important;
+  font-size: 20px !important;
+  padding: 24px !important;
+  margin: auto;
+}
+.css-kudwh-MuiTooltip-arrow {
+  color: white !important;
+}

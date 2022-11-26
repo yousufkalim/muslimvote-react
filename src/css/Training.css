@@ -22,6 +22,7 @@
 .major2 {
   display: flex;
   flex-direction: row-reverse;
+  align-items: center;
 }
 .TrainingContent {
   margin: 0 5%;

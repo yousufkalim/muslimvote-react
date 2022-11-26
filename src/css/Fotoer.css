@@ -18,6 +18,9 @@
   display: flex;
   justify-content: end;
 }
+.scroll_img {
+  cursor: pointer;
+}
 .Fotoer_right_contant {
   display: flex;
   margin-right: 20%;

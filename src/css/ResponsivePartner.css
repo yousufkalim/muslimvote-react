@@ -1,0 +1,180 @@
+@media only screen and (min-width: 1200px) and (max-width: 1600px) {
+  .voterEngagement {
+    width: 90%;
+  }
+  .handShakePara > p {
+    font-size: 20px;
+  }
+  .handShakePara h1 {
+    font-size: 45px;
+  }
+  .TrainingContent > ul > li {
+    font-size: 23px;
+    line-height: 36px;
+    padding-bottom: 10px;
+  }
+  .Election_title {
+    font-size: 35px;
+  }
+  .Election_p {
+    font-size: 30px;
+    line-height: 40px;
+  }
+  .timeLine_heading,
+  .timeLine_heading2 {
+    font-size: 20px;
+    line-height: 30px;
+  }
+}
+@media only screen and (min-width: 800px) and (max-width: 1200px) {
+  .VoterEngagementContainer {
+    height: 60vh;
+  }
+  .readMorebtnDiv {
+    width: 25%;
+    font-size: 16px;
+  }
+  .handShakePara h1 {
+    font-size: 28px;
+  }
+  .handShakePara > p {
+    font-size: 16px;
+    line-height: 24px;
+  }
+  .TrainingContent > ul > li {
+    font-size: 15px;
+    line-height: 27px;
+  }
+  .Election_title {
+    font-size: 25px;
+    line-height: 55px;
+  }
+  .Election_p {
+    font-size: 16px;
+    line-height: 26px;
+  }
+  .timeLine_heading,
+  .timeLine_heading2 {
+    font-size: 14px;
+    line-height: 24px;
+  }
+  .Drawers {
+    background-position: center;
+  }
+  .paragraph {
+    font-size: 20px;
+    line-height: 25px;
+  }
+}
+@media only screen and (max-width: 800px) {
+  .gradient,
+  .major,
+  .major2,
+  .Election_center {
+    flex-direction: column;
+  }
+  .paragraph,
+  .handShakeDiv,
+  .handShakePara,
+  .frame1Div,
+  .Election_column,
+  .Election_column2,
+  .Election_img,
+  .timeLine_content,
+  .timeLine_content2 {
+    width: 100%;
+  }
+  .Election_column {
+    padding: 0 5%;
+  }
+  .TrainingContent {
+    width: 80%;
+    margin: 10px auto;
+  }
+  .Election_title {
+    font-size: 24px;
+  }
+  .Election_p {
+    font-size: 16px;
+    line-height: 26px;
+  }
+  .voterEngageDiv {
+    width: 65%;
+  }
+  .paragraph {
+    font-size: 15px;
+    line-height: 24px;
+  }
+  .VoterEngagementContainer {
+    align-items: inherit;
+  }
+  .readMorebtnDiv {
+    width: 47%;
+    font-size: 15px;
+    line-height: 34px;
+  }
+  .handShakePara h1 {
+    font-size: 24px;
+  }
+  .handShakePara > p {
+    font-size: 15px;
+    line-height: 24px;
+    margin: 10px 0;
+  }
+  .handShakePara {
+    margin: 20px 0;
+    padding: 0 5%;
+  }
+  .VoterEducationContainer {
+    height: 87vh;
+  }
+  .TrainingImg {
+    width: 85%;
+  }
+  .TrainingContent > ul > li {
+    font-size: 16px;
+    line-height: 26px;
+  }
+  .Election {
+    margin: 15px 0;
+  }
+  .timeLine_heading,
+  .timeLine_heading2 {
+    font-size: 14px;
+    line-height: 22px;
+  }
+  .VoterPara {
+    margin: inherit;
+  }
+}
+@media only screen and (max-width: 300px) {
+  .readMorebtnDiv {
+    width: 60%;
+    font-size: 11px;
+    line-height: 29px;
+  }
+  .readMorebtnDiv2 {
+    width: 60%;
+    font-size: 14px;
+  }
+  .timeLine_heading,
+  .timeLine_heading2 {
+    font-size: 8px;
+    line-height: 14px;
+  }
+  .Drawers_center {
+    min-height: 133px;
+  }
+  .Drawers_p {
+    font-size: 8px;
+    line-height: 12px;
+  }
+  .Fotoer_ronald_p,
+  .Fotoer_ronald_p2 {
+    font-size: 12px;
+  }
+  .social_account_logo {
+    margin-left: 7px;
+    width: 20px;
+  }
+}

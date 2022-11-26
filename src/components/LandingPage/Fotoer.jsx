@@ -1,4 +1,4 @@
-import React from 'react';
+import { useEffect } from 'react';
 import ScrollTopImg from '../../assets/ScrollTopImg.svg';
 import FooterLocatImg from '../../assets/FooterLocatImg.svg';
 import FooterLogo from '../../assets/FooterLogo.svg';
@@ -7,6 +7,10 @@ import FooterIn from '../../assets/FooterIn.svg';
 import FooterFb from '../../assets/FooterFb.svg';
 
 const Fotoer = () => {
+  useEffect(() => {
+    // 👇️ scroll to top on page load
+    window.scrollTo({ top: 0, left: 0, behavior: 'smooth' });
+  }, []);
   return (
     <>
       <div className="Fotoer">
@@ -29,7 +33,14 @@ const Fotoer = () => {
                 </div>
               </div>
               <div className="Fotoer_right_colums">
-                <img src={ScrollTopImg} alt="" className="scroll_img" />
+                <img
+                  onClick={() => {
+                    window.scrollTo({ top: 0, left: 0, behavior: 'smooth' });
+                  }}
+                  src={ScrollTopImg}
+                  alt=""
+                  className="scroll_img"
+                />
               </div>
             </div>
           </div>

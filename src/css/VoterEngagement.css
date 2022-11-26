@@ -6,6 +6,7 @@
   background: url(../assets/PartnerBg.svg);
   background-position: right bottom, left top;
   background-repeat: no-repeat, repeat;
+  background-size: contain;
 }
 .voterEngageDiv {
   width: 40%;

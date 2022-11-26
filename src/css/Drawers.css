@@ -4,7 +4,8 @@
   background-size: cover;
 }
 .Drawers_center {
-  height: 845px;
+  min-height: 619px;
+  width: 100%;
   display: flex;
   justify-content: center;
   align-items: center;
