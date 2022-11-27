@@ -23,7 +23,7 @@ const Navigation = () => {
               <Link className="Navigation_a" to="#">
                 Mission & Vision
               </Link>
-              <Link className="Navigation_a" to="#">
+              <Link className="Navigation_a" to="/partner">
                 Partner
               </Link>
               <Link className="Navigation_a" to="#">
