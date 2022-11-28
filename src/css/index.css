@@ -20,6 +20,8 @@
 @import url('./Protecting.css');
 @import url('./Fotoer.css');
 @import url('./Election.css');
+@import url('./ResponsiveHome.css');
+@import url('./ResponsivePartner.css');
 
 /* Defaults */
 * {

@@ -1,5 +1,6 @@
 .MuslimYouth {
   width: 100%;
+  margin-top: -4px;
 }
 .MuslimYouth_center {
   background-image: url('../assets/MuslimYouthBg.svg');

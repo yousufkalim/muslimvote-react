@@ -1,8 +1,8 @@
 import React from 'react';
-import partner from '../../../assets/Partner.png';
-import training from '../../../assets/Training.png';
-import frame1 from '../../../assets/Frame1.png';
-import frame2 from '../../../assets/Frame2.png';
+import partner from '../../assets/Partner.png';
+import training from '../../assets/Training.png';
+import frame1 from '../../assets/Frame1.png';
+import frame2 from '../../assets/Frame2.png';
 
 const Training = () => {
   return (

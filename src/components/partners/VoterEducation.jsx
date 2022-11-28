@@ -1,6 +1,6 @@
 import React from 'react';
-import HandShake from '../../../assets/HandShake.png';
-import WhiteVector from '../../../assets/WhiteVector.png';
+import HandShake from '../../assets/HandShake.png';
+import WhiteVector from '../../assets/WhiteVector.png';
 
 const VoterEducation = () => {
   return (
